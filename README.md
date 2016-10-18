@@ -1,1 +1,2 @@
-# dsergii.github.io
+# Friend filter from VK
+[Example](dsergii.github.io)
